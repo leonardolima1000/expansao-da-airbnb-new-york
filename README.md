@@ -1,3 +1,5 @@
+![Imagem de NY](https://github.com/leonardolima1000/expansao-da-airbnb-new-york/blob/main/ny.jpg?raw=true)
+
 # Expansão da Airbnb - New York
  Simulação de análise de dados para expansão da Airbnb em New York através de perguntas e respostas realizadas pelo CEO da empresa.
 
